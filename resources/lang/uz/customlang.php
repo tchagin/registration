@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'Выберите выставку' => "Ko'rgazmani tanlang",
+    'Выберите язык' => 'Tilni tanlang',
+    'Организаторы' => 'Tashkilotchilar',
+    'Регистрация для посещения' => "Tashrif uchun ro'yxatdan o'ting",
+    'Далее' => 'Keyinchalik',
+    'Выставки отсутствуют' => "Ko'rgazmalar yo'q",
+    'Страна' => 'Mamlakat',
+    'Выберите страну' => 'Mamlakatni tanlang',
+    'Название компании' => 'Shirkat Nomi',
+    'Сайт компании' => 'Kompaniyaning sayti',
+    'Введите название' => 'Sarlavhani kiriting',
+    'Введите сайт' => 'Saytga kiring',
+    'Номер телефона' => 'Telefon raqami',
+    'Введите номер' => 'Raqamni kiriting',
+    'Ф.И.О' => "TO'LIQ ISMI SHARIF",
+    'Введите Ф.И.О' => "Toʻliq ismingizni kiriting",
+    'Должность' => 'Lavozim',
+    'Введите должность' => 'Joyni kiriting',
+    'Назад' => 'Orqaga',
+    'Ваш бeйдж' => 'Sizning nishoningiz',
+    'Распечатать' => 'Chop etish',
+    'Печать' => 'Chop etish',
+    'Отправить на e-mail' => 'E-mail orqali yuboring',
+    'Сохранить PDF' => '"PDF" ni saqlash',
+    'На главную' => 'Asosiyga',
+    'Сайт выставки' => 'Ko\'rgazma veb-sayti',
+    'Индустрия' => 'Sanoat',
+    '' => '',
+
+];

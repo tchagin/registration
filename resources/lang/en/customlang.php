@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'Выберите выставку' => 'Select exhibition',
+    'Выберите язык' => 'Choose language',
+    'Организаторы' => 'Organizers',
+    'Регистрация для посещения' => 'Register to visit',
+    'Далее' => 'Next',
+    'Выставки отсутствуют' => 'No exhibitions',
+    'Страна' => "Country",
+    'Выберите страну' => 'Select a country',
+    'Название компании' => 'Company name',
+    'Сайт компании' => 'Company website',
+    'Введите название' => 'Enter the title',
+    'Введите сайт' => 'Введите сайт',
+    'Номер телефона' => 'Phone number',
+    'Введите номер' => 'Enter number',
+    'Ф.И.О' => 'Full name',
+    'Введите Ф.И.О' => 'Enter your full name',
+    'Должность' => 'Position',
+    'Введите должность' => 'Enter position',
+    'Назад' => 'Back',
+    'Ваш бeйдж' => 'Your badge',
+    'Распечатать' => 'Print',
+    'Печать' => 'Print',
+    'Отправить на e-mail' => 'Send by e-mail',
+    'Сохранить в PDF' => 'Save PDF',
+    'На главную' => 'To main',
+    'Сайт выставки' => 'Exhibition website',
+    'Индустрия' => 'Industry',
+    '' => '',
+
+];
